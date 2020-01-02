@@ -16,8 +16,10 @@ class portfolioRoute extends React.Component {
     <div className="content__inner">
       <div className="page">
     <h1 className="page__title">About me</h1>
-    <p>I am a communications enthusiast who loves good design, technology, and digital lifestyle. I strive to create products and services that help people. I live by the principle that age is just a number and learning is never-ending. I love to inspire and be inspired.</p>    
-    <p> am obsessed about Darjeeling tea and often find myself brewing, tasting, and always seeking that perfect muscatel flavor. Check out my quick tutorial about brewing a perfect Darjeeling tea. I am also play guitar in my free time.</p>
+    <p>I am writer and a designer based in Ottawa, Canada. I enjoy taking complex ideas from brightest minds and presenting them in the most elegant way possible. I live by the principle that age is just a number and learning is never-ending. I love to inspire and be inspired.</p>    
+      <h2>Random facts</h2>
+      <p> I play guitar in my free time. If have a minute, listen to my guitar rants on my instagram page.</p>
+      <p> I am obsessed about Darjeeling tea and often find myself brewing, tasting, and always seeking that perfect muscatel flavor. Check out my quick tutorial about brewing a perfect Darjeeling tea. </p>
     <h2>Technical Communication</h2>
     <p>
     With over seven years of experience writing and designing many types of documentation -- from technical documents through to marketing materials, and  web content -- I know exactly what it takes to simplify complex information into everyday language. I write and design documentation that is easy for the users to follow that enables them to quickly complete their task at hand. Whether that task is to complete a software installation, understand how a feature works, or gather information about a product.</p>
