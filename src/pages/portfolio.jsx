@@ -15,7 +15,7 @@ class portfolioRoute extends React.Component {
               <div className="page">
                 <h1 className="page__title">About me</h1>
                 <p>
-                  I am writer and a designer based in Ottawa, Canada. I enjoy
+                  I am a writer, designer, and developer based in Ottawa, Canada. I enjoy
                   taking complex ideas from the brightest minds and presenting
                   them in the most elegant way possible. I live by the principle
                   that age is just a number and learning is never-ending. I love
@@ -26,29 +26,31 @@ class portfolioRoute extends React.Component {
                   {/* I am filled with curiosity and often find myself
                   trying/learning new things of interest, anything to do with
                   technology, music, adventures, or art.  */}
-                  I have are a very particular set of
-                  skills. Skills I have acquired over a long career in tehcnical communication, marketing, and design. Skills
-                  that make me a nightmare for any documentation, information architecture and design, web content projects, or any projects that needs good user empathcy and strong understanding of UX principles and UI desing. 
-                  . If you hire me now that'll be the end of all your documentation and UI/UX nightmares. If you don't, I will look for you, I will find you and I will kill you."
-                  </p>
-                  <p>Was that enough to convince you to hire me? If not, read on...</p>
-     
+                  I have are a very particular set of skills. Skills I have
+                  acquired over a long career in tehcnical communication,
+                  marketing, and design. Skills that make me indispensable for any
+                  documentation, information design, and web
+                  projects, or any web-related projects that needs good user
+                  empathy and strong understanding of UX/UI principles. If you hire me now that'll be the end of all your
+                  documentation and UI/UX nightmares. If you don't, I will look
+                  for you, I will find you and I will make you hire me.
+                </p>
+                <p>
+                  Was that enough to convince you to hire me? If not, read on...
+                </p>
+
                 <h3>Technical Communication</h3>
                 <p>
-                  Technical Communication is my bread and butter. Good communication requires intelligent content that enables
-                  the audience to engage with your product. I can help your
-                  software development team write engaging content and design
-                  information that users can easily access and consume using
-                  their mobile phones, tablets, or computers. With information
-                  available at anytim&mdash;either as an online help, video
-                  tutorials, or user guides&mdash;your customers can achieve
-                  their goals and enjoy your products without needing to call
-                  support to get started. I
-                  write and design documentation that is easy for the users to
-                  follow, and enables them to quickly complete their task at
-                  hand. Whether that task is to complete a software
-                  installation, understand how a feature works, or gather
-                  information about a product.
+                  Good communication requires intelligent content that enables the
+                  audience to engage with your product. I can help your engineering or scientific team write engaging content and design information
+                  that users can easily access and consume using their mobile
+                  phones, tablets, or computers. With information available at
+                  anytime&mdash;either as an online help, video tutorials, or
+                  user guides&mdash;your customers can achieve their goals and
+                  enjoy your products without needing to call support to get
+                  started. I write and design documentation that is easy for the
+                  users to follow, and enables them to quickly complete their
+                  task at hand. 
                 </p>
                 <h3>User Experience Design</h3>
                 <p>
