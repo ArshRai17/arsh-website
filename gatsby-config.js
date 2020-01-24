@@ -31,6 +31,7 @@ module.exports = {
       email: 'connect@arshabhirai.com',
       twitter: 'https://twitter.com/arshrai_',
       github: 'https://github.com/ArshRai17',
+      linkedin: 'https://ca.linkedin.com/in/arshabhirai',
     },
   },
   plugins: [

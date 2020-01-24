@@ -26,31 +26,24 @@ class portfolioRoute extends React.Component {
                   {/* I am filled with curiosity and often find myself
                   trying/learning new things of interest, anything to do with
                   technology, music, adventures, or art.  */}
-                  I have are a very particular set of skills. Skills I have
-                  acquired over a long career in tehcnical communication,
+                  I have particular set of skills. Skills I acquired over a long career in technical communication,
                   marketing, and design. Skills that make me indispensable for any
-                  documentation, information design, and web
-                  projects, or any web-related projects that needs good user
-                  empathy and strong understanding of UX/UI principles. If you hire me now that'll be the end of all your
-                  documentation and UI/UX nightmares. If you don't, I will look
-                  for you, I will find you and I will make you hire me.
-                </p>
-                <p>
-                  Was that enough to convince you to hire me? If not, read on...
+                  documentation, information design, and web-related projects that require immaculate communication, user
+                  empathy and strong understanding of the UX/UI principles. If you hire me now that'll be the end of all your
+                  documentation and UI/UX nightmares. If you are still not sure, read on to get convinced...
                 </p>
 
                 <h3>Technical Communication</h3>
                 <p>
                   Good communication requires intelligent content that enables the
-                  audience to engage with your product. I can help your engineering or scientific team write engaging content and design information
-                  that users can easily access and consume using their mobile
+                  audience to engage with your product. I write and design documentation that is easy for the
+                  users to follow, and enables them to quickly complete their
+                  task at hand. I can help your engineering or scientific team write engaging content and design information
+                  that users can easily access and consume, using their mobile
                   phones, tablets, or computers. With information available at
                   anytime&mdash;either as an online help, video tutorials, or
                   user guides&mdash;your customers can achieve their goals and
-                  enjoy your products without needing to call support to get
-                  started. I write and design documentation that is easy for the
-                  users to follow, and enables them to quickly complete their
-                  task at hand. 
+                  enjoy your products, while reducing the support calls. 
                 </p>
                 <h3>User Experience Design</h3>
                 <p>
@@ -84,7 +77,7 @@ class portfolioRoute extends React.Component {
                   {' '}
                   I drink a lot of tea, Darjeeling tea to be precise. At home, I
                   am always brewing, tasting, and seeking that perfect muscatel
-                  flavor. Check out my tutorial on brewing a perfect cup of
+                  flavor. Check out my quick tutorial on brewing a perfect cup of
                   Darjeeling tea.{' '}
                 </p>
               </div>

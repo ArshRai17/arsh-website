@@ -33,6 +33,15 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
+            <a
+              href={`https://ca.linkedin.com/${links.dev}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="icon-linkedin" />
+            </a>
+          </li>
+          <li className="links__list-item">
             <a href={`mailto:${links.email}`}>
               <i className="icon-mail" />
             </a>
