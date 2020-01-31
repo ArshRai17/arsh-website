@@ -9,6 +9,7 @@ class Links extends React.Component {
       twitter: author.twitter,
       github: author.github,
       email: author.email,
+      linkedin: author.linkedin,
     }
 
     return (
@@ -16,7 +17,7 @@ class Links extends React.Component {
         <ul className="links__list">
           <li className="links__list-item">
             <a
-              href={`https://www.twitter.com/${links.twitter}`}
+              href={`${links.twitter}`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -25,7 +26,7 @@ class Links extends React.Component {
           </li>
           <li className="links__list-item">
             <a
-              href={`https://www.github.com/${links.github}`}
+              href={`${links.github}`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -34,7 +35,7 @@ class Links extends React.Component {
           </li>
           <li className="links__list-item">
             <a
-              href={`https://ca.linkedin.com/${links.dev}`}
+              href={`${links.linkedin}`}
               target="_blank"
               rel="noopener noreferrer"
             >
