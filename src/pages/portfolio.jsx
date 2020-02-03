@@ -58,7 +58,7 @@ class portfolioRoute extends React.Component {
                   manipulate images to simplify technical information and
                   enhance users’ understanding of the material.
                 </p>
-                <h3>Web Development</h3>
+                <h3>Coding</h3>
                 <p>
                   In the ever-changing world of science and technology, I stay
                   plugged-in to modern tools and technologies. I believe every
@@ -106,6 +106,7 @@ export const protfolioQuery = graphql`
           email
           twitter
           github
+          linkedin
         }
       }
     }
